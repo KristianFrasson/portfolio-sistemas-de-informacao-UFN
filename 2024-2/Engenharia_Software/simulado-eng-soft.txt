@@ -1,0 +1,216 @@
+Claro, vou corrigir as questões e fornecer a explicação para cada uma delas.
+
+### Correções e Explicações:
+
+1. **O que define um software?**
+    - a) Apenas o código fonte.
+    - b) Apenas a documentação.
+    - c) Apenas as estruturas de dados.
+    - **d) Instruções, estruturas de dados e informações descritivas que, em conjunto, possibilitam o funcionamento e o uso de um programa.**
+    - **Explicação:** A alternativa correta é a (d) porque um software é composto por instruções (código), estruturas de dados e documentação que, juntos, permitem seu funcionamento e uso.
+
+2. **Uma característica fundamental do software é que ele:**
+    - a) É fabricado em uma linha de produção.
+    - **b) É desenvolvido ou passa por um processo de engenharia.**
+    - c) Não precisa de manutenção.
+    - d) Não pode ser modificado após ser criado.
+    - **Explicação:** A alternativa correta é a (b) porque o software é desenvolvido através de um processo de engenharia, ao contrário do hardware que é fabricado.
+
+3. **Qual a principal diferença entre o desenvolvimento de software e a fabricação de hardware?**
+    - a) O software é mais caro de produzir.
+    - b) O hardware é mais fácil de modificar.
+    - **c) Os custos de desenvolvimento de software se concentram no processo de engenharia, enquanto os custos de hardware se concentram na fabricação.**
+    - d) O software não precisa de testes.
+    - **Explicação:** A alternativa correta é a (c) porque o desenvolvimento de software envolve mais custos no processo de engenharia, enquanto a fabricação de hardware envolve mais custos na produção física.
+
+4. **Por que se afirma que o software não se desgasta?**
+    - a) Porque ele é imune a falhas.
+    - b) Porque ele é sempre atualizado.
+    - **c) Porque ele não está sujeito aos mesmos desgastes físicos que o hardware, embora possa se tornar obsoleto.**
+    - d) Porque ele é feito de materiais duráveis.
+    - **Explicação:** A alternativa correta é a (c) porque o software não sofre desgaste físico como o hardware, mas pode se tornar obsoleto com o tempo.
+
+5. **O que caracteriza um software legado?**
+    - a) É um software que nunca foi modificado.
+    - b) É um software que é sempre atualizado.
+    - **c) É um software antigo, que passou por diversas modificações e que pode ser difícil de manter.**
+    - d) É um software que não possui documentação.
+    - **Explicação:** A alternativa correta é a (c) porque um software legado é geralmente antigo, passou por várias modificações e pode ser difícil de manter.
+
+6. **Qual a natureza de uma WebApp?**
+    - a) É um software que só funciona offline.
+    - b) É um software que não precisa de manutenção.
+    - **c) É um software que combina elementos de publicação impressa, desenvolvimento de software, marketing e computação.**
+    - d) É um software que não possui interface gráfica.
+    - **Explicação:** A alternativa correta é a (c) porque uma WebApp combina elementos de várias disciplinas, incluindo publicação, desenvolvimento, marketing e computação.
+
+7. **Quais dos seguintes atributos são encontrados na grande maioria das WebApps?**
+    - a) Baixo uso de redes, baixa simultaneidade, carga previsível.
+    - **b) Uso intensivo de redes, simultaneidade, carga não previsível.**
+    - c) Uso intensivo de redes, baixa simultaneidade, carga previsível.
+    - d) Baixo uso de redes, alta simultaneidade, carga previsível.
+    - **Explicação:** A alternativa correta é a (b) porque as WebApps geralmente fazem uso intensivo de redes, suportam múltiplos usuários simultaneamente e têm cargas de trabalho imprevisíveis.
+
+8. **Segundo Fritz Bauer, o que é Engenharia de Software?**
+    - **a) É o estabelecimento e o emprego de sólidos princípios de engenharia de modo a obter software de maneira econômica, que seja confiável e funcione de forma eficiente em máquinas reais.**
+    - b) É a criação de software sem seguir nenhum padrão.
+    - c) É a manutenção de hardware.
+    - d) É a documentação de software.
+    - **Explicação:** A alternativa correta é a (a) porque Fritz Bauer definiu Engenharia de Software como a aplicação de princípios de engenharia para obter software de forma econômica, confiável e eficiente.
+
+9. **O que define o Processo de Software?**
+    - a) É a documentação do software.
+    - b) É a manutenção do hardware.
+    - **c) É um conjunto de atividades, ações e tarefas realizadas na criação de um produto de trabalho (work product).**
+    - d) É a criação de hardware.
+    - **Explicação:** A alternativa correta é a (c) porque o processo de software é um conjunto de atividades, ações e tarefas realizadas na criação de um produto de trabalho.
+
+10. **Quais são as cinco atividades metodológicas de uma metodologia de processo genérica para a Engenharia de Software?**
+     - a) Planejamento, Desenvolvimento, Teste, Implementação, Manutenção.
+     - b) Análise, Design, Codificação, Teste, Manutenção.
+     - c) Requisitos, Design, Implementação, Verificação, Manutenção.
+     - **d) Concepção, Elaboração, Construção, Transição e Manutenção.**
+     - **Explicação:** A alternativa correta é a (d) porque essas são as cinco atividades metodológicas de uma metodologia de processo genérica para a Engenharia de Software.
+
+11. **Qual a importância da atividade de "Comunicação" no processo de desenvolvimento de software?**
+     - a) É irrelevante para o sucesso do projeto.
+     - b) É importante apenas para a equipe de marketing.
+     - **c) É essencial para entender os objetivos do cliente e levantar as necessidades que definirão as funções e características do software.**
+     - d) É importante apenas para a equipe de desenvolvimento.
+     - **Explicação:** A alternativa correta é a (c) porque a comunicação é essencial para entender os objetivos do cliente e levantar as necessidades que definirão as funções e características do software.
+
+12. **O que é o "Plano de Projeto de Software" e qual a sua importância na atividade de "Planejamento"?**
+     - **a) É um "mapa" que define o trabalho de engenharia de software, descrevendo as tarefas, riscos, recursos, produtos resultantes e cronograma.**
+     - b) É um documento que descreve apenas os requisitos do software.
+     - c) É um plano de marketing para o software.
+     - d) É um documento que descreve apenas os testes do software.
+     - **Explicação:** A alternativa correta é a (a) porque o Plano de Projeto de Software é um "mapa" que define o trabalho de engenharia de software, descrevendo as tarefas, riscos, recursos, produtos resultantes e cronograma.
+
+13. **Qual o propósito da atividade de "Modelagem" no processo de desenvolvimento de software?**
+     - a) Criar a documentação do software.
+     - b) Testar o software.
+     - **c) É utilizada para criar um "esboço" do software, permitindo a visualização da sua arquitetura, o encaixe das partes e outras características.**
+     - d) Implementar o software.
+     - **Explicação:** A alternativa correta é a (c) porque a modelagem cria um esboço do software, permitindo a visualização da arquitetura e outras características importantes.
+
+14. **O que a atividade de "Construção" combina?**
+     - a) A documentação e a manutenção do software.
+     - **b) A geração de código (manual ou automatizada) e os testes necessários para encontrar e corrigir erros.**
+     - c) A análise e o design do software.
+     - d) A implementação e a verificação do software.
+     - **Explicação:** A alternativa correta é a (b) porque a construção combina a geração de código e os testes necessários para garantir a qualidade do software.
+
+15. **O que caracteriza um fluxo de processo iterativo?**
+     - **a) Repete uma ou mais atividades metodológicas antes de prosseguir para a seguinte.**
+     - b) Executa todas as atividades metodológicas de uma vez.
+     - c) Não repete nenhuma atividade metodológica.
+     - d) Executa as atividades metodológicas em ordem aleatória.
+     - **Explicação:** A alternativa correta é a (a) porque um fluxo de processo iterativo repete uma ou mais atividades metodológicas antes de prosseguir para a seguinte.
+
+16. **Qual o principal objetivo do modelo em cascata?**
+     - a) Propor uma abordagem iterativa para o desenvolvimento de software.
+     - **b) Propor uma abordagem sequencial e sistemática para o desenvolvimento de software, com etapas bem definidas.**
+     - c) Propor uma abordagem ágil para o desenvolvimento de software.
+     - d) Propor uma abordagem flexível para o desenvolvimento de software.
+     - **Explicação:** A alternativa correta é a (b) porque o modelo em cascata visa propor uma abordagem sequencial e sistemática para o desenvolvimento de software, com etapas bem definidas.
+
+17. **Quais são alguns problemas que podem surgir ao se utilizar o modelo em cascata?**
+     - a) A facilidade de definir todos os requisitos no início do projeto.
+     - **b) A dificuldade do cliente em definir todos os requisitos no início do projeto e a falta de uma versão operacional do software até o final do projeto.**
+     - c) A flexibilidade do modelo.
+     - d) A entrega contínua de versões operacionais do software.
+     - **Explicação:** A alternativa correta é a (b) porque o modelo em cascata pode dificultar a definição de todos os requisitos no início do projeto e a falta de uma versão operacional do software até o final do projeto.
+
+18. **O que o modelo incremental propõe?**
+     - a) Desenvolver o software de uma vez só.
+     - b) Desenvolver o software sem planejamento.
+     - **c) Desenvolver o software em incrementos, com cada incremento adicionando novas funcionalidades.**
+     - d) Desenvolver o software sem testes.
+     - **Explicação:** A alternativa correta é a (c) porque o modelo incremental propõe desenvolver o software em incrementos, adicionando novas funcionalidades a cada etapa.
+
+19. **Qual a principal característica do modelo de prototipação?**
+     - **a) A criação de um protótipo do software para validar os requisitos com o cliente e obter feedback para o desenvolvimento.**
+     - b) A criação de um protótipo do hardware.
+     - c) A criação de um protótipo sem a participação do cliente.
+     - d) A criação de um protótipo sem testes.
+     - **Explicação:** A alternativa correta é a (a) porque a prototipação envolve a criação de um protótipo para validar os requisitos e obter feedback do cliente.
+
+20. **Quais os problemas que podem surgir com a prototipação?**
+     - a) A certeza do cliente de que o software está pronto.
+     - **b) A possibilidade do cliente ter uma falsa impressão de que o software está pronto e a tentação de se fazer compromissos com a qualidade para entregar o protótipo rapidamente.**
+     - c) A falta de feedback do cliente.
+     - d) A impossibilidade de modificar o protótipo.
+     - **Explicação:** A alternativa correta é a (b) porque a prototipação pode levar o cliente a acreditar que o software está pronto e pode levar a compromissos com a qualidade para entregar o protótipo rapidamente.
+
+21. **O que caracteriza o modelo espiral de desenvolvimento de software?**
+     - a) É um modelo sequencial que não permite iterações.
+     - b) É um modelo que não considera a gestão de riscos.
+     - c) É um modelo que não utiliza protótipos.
+     - **d) É um modelo iterativo que combina a prototipação com os aspectos sistemáticos do modelo cascata, focado na gestão de riscos.**
+     - **Explicação:** A alternativa correta é a (d) porque o modelo espiral combina a prototipação com os aspectos sistemáticos do modelo cascata, com foco na gestão de riscos.
+
+22. **O que é o desenvolvimento ágil de software?**
+     - a) É uma filosofia de desenvolvimento que valoriza a documentação extensa.
+     - **b) É uma filosofia de desenvolvimento que valoriza a satisfação do cliente, a entrega incremental, a colaboração e a flexibilidade.**
+     - c) É uma filosofia de desenvolvimento que valoriza a rigidez dos processos.
+     - d) É uma filosofia de desenvolvimento que valoriza a falta de comunicação.
+     - **Explicação:** A alternativa correta é a (b) porque o desenvolvimento ágil valoriza a satisfação do cliente, entregas incrementais, colaboração e flexibilidade.
+
+23. **Quais os princípios que norteiam o desenvolvimento ágil de software?**
+     - **a) Satisfação do cliente, entrega incremental, comunicação constante, equipes auto-organizadas, excelência técnica.**
+     - b) Satisfação do cliente, entrega única, comunicação esporádica, equipes hierárquicas, qualidade mínima.
+     - c) Satisfação do cliente, entrega incremental, comunicação esporádica, equipes hierárquicas, qualidade mínima.
+     - d) Satisfação do cliente, entrega única, comunicação constante, equipes auto-organizadas, excelência técnica.
+     - **Explicação:** A alternativa correta é a (a) porque esses são os princípios fundamentais do desenvolvimento ágil de software.
+
+24. **O que é o Extreme Programming (XP)?**
+     - **a) É um modelo de desenvolvimento ágil que se concentra na comunicação, feedback e simplicidade, com práticas como programação em dupla e testes de unidade.**
+     - b) É um modelo de desenvolvimento sequencial.
+     - c) É um modelo de desenvolvimento que não utiliza testes.
+     - d) É um modelo de desenvolvimento que não valoriza a comunicação.
+     - **Explicação:** A alternativa correta é a (a) porque o Extreme Programming (XP) é um modelo ágil que enfatiza a comunicação, feedback e simplicidade, com práticas como programação em dupla e testes de unidade.
+
+25. **O Scrum é um framework ágil que se baseia em:**
+     - a) Iterações longas, chamadas de Sprints, e equipes hierárquicas.
+     - b) Iterações curtas, chamadas de Sprints, e equipes hierárquicas.
+     - **c) Iterações curtas, chamadas de Sprints, e equipes auto-organizadas.**
+     - d) Iterações longas, chamadas de Sprints, e equipes auto-organizadas.
+     - **Explicação:** A alternativa correta é a (c) porque o Scrum utiliza iterações curtas chamadas Sprints e equipes auto-organizadas.
+
+26. **O que é o "Product Backlog" no Scrum?**
+     - a) É uma lista de tarefas concluídas.
+     - **b) É uma lista priorizada de funcionalidades a serem desenvolvidas, que pode ser modificada ao longo do projeto.**
+     - c) É uma lista de bugs a serem corrigidos.
+     - d) É uma lista de requisitos não priorizados.
+     - **Explicação:** A alternativa correta é a (b) porque o Product Backlog é uma lista priorizada de funcionalidades que pode ser modificada ao longo do projeto.
+
+27. **O que define um Paradigma de Programação?**
+     - a) É um modelo de estruturação que define a forma como o hardware é organizado.
+     - b) É um modelo de estruturação que define a forma como a documentação é organizada.
+     - **c) É um modelo de estruturação que define a forma como o código fonte é organizado e como os problemas são abordados.**
+     - d) É um modelo de estruturação que define a forma como os testes são organizados.
+     - **Explicação:** A alternativa correta é a (c) porque um paradigma de programação define a forma como o código é estruturado e como os problemas são abordados.
+
+28. **Qual a principal característica do Paradigma Imperativo?**
+     - **a) O código é escrito como uma sequência de comandos que o computador deve executar passo a passo.**
+     - b) O código é escrito como uma série de declarações.
+     - c) O código é escrito como uma série de objetos.
+     - d) O código é escrito como uma série de funções.
+     - **Explicação:** A alternativa correta é a (a) porque no Paradigma Imperativo, o código é escrito como uma sequência de comandos que o computador executa passo a passo.
+
+29. **O que diferencia o Paradigma Declarativo do Paradigma Imperativo?**
+     - a) O Paradigma Declarativo se concentra em "como" deve ser feito, enquanto o Paradigma Imperativo se concentra em "o que" deve ser feito.
+     - b) O Paradigma Declarativo se concentra em "o que" deve ser feito, enquanto o Paradigma Imperativo se concentra em "como" deve ser feito.
+     - **c) O Paradigma Declarativo se concentra em "o que" deve ser feito, enquanto o Paradigma Imperativo se concentra em "como" deve ser feito.**
+     - d) O Paradigma Declarativo se concentra em "como" deve ser feito, enquanto o Paradigma Imperativo se concentra em "o que" deve ser feito.
+     - **Explicação:** A alternativa correta é a (c) porque o Paradigma Declarativo foca no "o que" deve ser feito, enquanto o Paradigma Imperativo foca no "como" deve ser feito.
+
+30. **Qual o foco do Paradigma Orientado a Objetos?**
+     - a) Ele organiza o código em torno de funções.
+     - **b) Ele organiza o código em torno de objetos, que são unidades que representam entidades do mundo real, com seus próprios dados e comportamentos.**
+     - c) Ele organiza o código em torno de declarações.
+     - d) Ele organiza o código em torno de comandos.
+     - **Explicação:** A alternativa correta é a (b) porque o Paradigma Orientado a Objetos organiza o código em torno de objetos que representam entidades do mundo real, com seus próprios dados e comportamentos.
+
+Espero que isso ajude! Se precisar de mais alguma coisa, estou à disposição.
+
