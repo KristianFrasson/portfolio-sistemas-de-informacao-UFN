@@ -1,4 +1,4 @@
-from vpython import *
+from vpython import canvas, box, sphere, vector, color, rate, mag
 #Web VPython 3.2
 
 import random # biblioteca de valroes aleatorios
