@@ -13,3 +13,7 @@ build/
 # Ignore arquivos de configuração do editor
 .vscode/
 .idea/
+
+# Ignore arquivos de dependências do npm
+package-lock.json
+package.json
