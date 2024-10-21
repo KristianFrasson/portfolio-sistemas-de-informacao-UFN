@@ -1,5 +1,4 @@
 # Fundamentos de Sistemas Operacionais
-# Fundamentos de Sistemas Operacionais
 
 Bem-vindo ao repositório da disciplina de **Fundamentos de Sistemas Operacionais** do curso de **Sistemas de Informação** da **Universidade Franciscana (UFN)**, RS, Brasil. Este repositório contém todos os conteúdos estudados e desenvolvidos ao longo do semestre.
 
