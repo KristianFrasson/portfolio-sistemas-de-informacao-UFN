@@ -1,0 +1,15 @@
+# Ignore arquivos de log
+*.log
+
+# Ignore diretório de dependências do Node.js
+node_modules/
+
+# Ignore diretório de build
+build/
+
+# Ignore arquivos de configuração local
+.env
+
+# Ignore arquivos de configuração do editor
+.vscode/
+.idea/
