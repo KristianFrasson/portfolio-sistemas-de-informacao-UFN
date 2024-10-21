@@ -1,0 +1,11 @@
+Para elaboração do Produto de Aprendizagem 2 escolha um software (desktop, web ou mobile) para desenvolver  Avaliação de Usabilidade.
+A Usabilidade é um dos critério de qualidade de software e envolve a interação humano-computador.
+Vamos utilizar as seguintes técnicas de avaliação de usabilidade:
+
+- Avaliação Heurística usando as Heurísticas de Nielsen.
+- Checklist, utilizando o Ergolist disponível em https://usabilidade.github.io/
+- Identificação dos estudantes
+- Breve descrição do software que será avaliado
+- Avaliação Heurística usando as Heurísticas de Nielsen: para cada heurística, percorrer todas as interfaces do software e aplicá-la, conforme estudamos em aula. Por fim, apresentar um relatório final, com o resultado a aplicação desta avaliação Heurística.
+- Checklist, utilizando o Ergolist disponível em https://usabilidade.github.io/: para ada critério, explicar se o software atende ou não. Em caso de não atender ao critério, comentar sugerindo alterações na interface.
+- Conclusões: expressar as principais contribuições para a melhoria da Usabilidade do software escolhido e as conclusões sobre a aplicação dessas técnicas de Usabilidade.

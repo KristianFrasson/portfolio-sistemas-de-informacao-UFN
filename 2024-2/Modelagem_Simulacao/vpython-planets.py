@@ -1,4 +1,5 @@
-from vpython import *
+from vpython import canvas, sphere, vector, color, rate
+from math import cos, sin
 #Web VPython 3.2
 
 # cena
