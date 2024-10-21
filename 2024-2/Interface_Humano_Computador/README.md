@@ -1,47 +1,30 @@
-# Interface Humano Computador
+# Interface Humano-Computador
 
----
+Bem-vindo ao repositório da disciplina de Interface Humano-Computador do curso de Sistemas de Informação da Universidade Franciscana (UFN), RS, Brasil. Este repositório contém todos os conteúdos estudados e desenvolvidos ao longo do semestre.
 
-### Resumo das Competências
+## Organização do Repositório
 
-- **Fundamentos de Interfaces Humano-Computador**: Aspectos fundamentais da interação humano-computador.
-- **Fatores Humanos**: Fatores humanos críticos para o desenvolvimento de interfaces.
-- **Aspectos Tecnológicos**: Aplicação de tecnologias na interação humano-computador.
-- **Processo de Desenvolvimento e Usabilidade**: Criação de interfaces com foco na usabilidade.
+Os materiais estão organizados da seguinte forma:
 
----
+- **Aulas**: Notas de aula, slides e materiais de referência.
+- **Trabalhos**: Projetos e tarefas desenvolvidas durante o curso.
+- **Exercícios**: Listas de exercícios e suas respectivas soluções.
+- **Referências**: Artigos, livros e links úteis para aprofundamento no tema.
 
-### Objetivos de Aprendizagem
+## Objetivo da Disciplina
 
-1. **Fundamentos de Interfaces Humano-Computador**:
-    - Entender os princípios básicos da interação humano-computador.
-    - Identificar boas práticas na construção de interfaces.
+A disciplina de Interface Humano-Computador tem como objetivo principal estudar e aplicar os conceitos de design de interfaces, usabilidade e experiência do usuário (UX). Os tópicos abordados incluem:
 
-2. **Fatores Humanos**:
-    - Analisar a importância dos fatores humanos no design de interfaces.
-    - Avaliar criticamente interfaces existentes.
+- Princípios de design de interfaces
+- Métodos de avaliação de usabilidade
+- Ferramentas e técnicas de prototipagem
+- Estudos de caso e aplicações práticas
 
-3. **Aspectos Tecnológicos**:
-    - Integrar tecnologias modernas na criação de interfaces.
-    - Utilizar ferramentas e técnicas para melhorar a interação.
+## Contato
 
-4. **Processo de Desenvolvimento e Usabilidade**:
-    - Desenvolver interfaces com alta usabilidade.
-    - Implementar processos de avaliação de usabilidade.
+Para dúvidas ou mais informações, entre em contato:
 
----
+- **Nome**: Kristian
+- **Email**: kristian.frasson@ufn.edu.br
 
-### Recursos Adicionais
-
-- [...](.)
-- [...](.)
-- [...](.)
-
----
-
-### Contato
-
-kristian.frasson@ufn.edu.br
-
----
-
+Aproveite os estudos e boas práticas de design de interfaces!
