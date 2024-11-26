@@ -1,0 +1,67 @@
+# Framework PACT - StudyHub
+
+## People (Pessoas)
+### Perfis Primários
+- **Estudantes Universitários**
+  - Faixa etária: 18-30 anos
+  - Experiência tecnológica: Intermediária a avançada
+  - Dispositivos: Smartphones, notebooks, tablets
+  - Necessidades especiais: Suporte a leitores de tela, alto contraste
+
+- **Professores**
+  - Faixa etária: 30-65 anos
+  - Experiência tecnológica: Básica a intermediária
+  - Dispositivos: Desktops, notebooks
+  - Necessidades: Facilidade de uso, tutoriais claros
+
+## Activities (Atividades)
+### Atividades Principais
+1. Gerenciamento de Conteúdo
+   - Upload de materiais
+   - Organização por disciplinas
+   - Categorização por tags
+   
+2. Colaboração
+   - Criação de grupos
+   - Compartilhamento de arquivos
+   - Discussões em tempo real
+
+3. Planejamento
+   - Agendamento de estudos
+   - Definição de metas
+   - Acompanhamento de progresso
+
+## Context (Contexto)
+### Ambiente Físico
+- Salas de aula
+- Bibliotecas
+- Ambientes domésticos
+- Espaços de coworking
+
+### Ambiente Social
+- Individual
+- Pequenos grupos
+- Turmas completas
+
+### Ambiente Organizacional
+- Ambiente acadêmico
+- Horários flexíveis
+- Diferentes fusos horários
+
+## Technologies (Tecnologias)
+### Hardware
+- Computadores desktop/notebook
+- Dispositivos móveis
+- Tablets
+- Diversos tamanhos de tela
+
+### Software
+- Navegadores web modernos
+- Progressive Web App (PWA)
+- APIs RESTful
+- Sistema de cache offline
+
+### Conectividade
+- Wifi
+- Dados móveis
+- Funcionamento offline parcial
